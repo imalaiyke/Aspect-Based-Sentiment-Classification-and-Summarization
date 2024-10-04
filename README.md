@@ -22,13 +22,6 @@ The rise of **Large Language Models (LLMs)** has transformed the summarization p
 - ⚙️ Streamline the understanding of overall sentiments.
 - 📈 Save time and resources while driving sales and revenue.
 
-## Project Skills
-This final project equips participants with valuable skills relevant to real-world business contexts: 🚀
-
-- 💻 Hands-on experience with implementation specifics.
-- 📚 Proficiency in building solutions using open-source LLMs.
-- 🌍 Knowledge of deploying cutting-edge solutions in business environments.
-
 ## Project Objective
 The goal of this project is to create a **Generative AI application** that automates the aspect-based classification and summarization of customer reviews. 🎯 Key objectives include:
 
