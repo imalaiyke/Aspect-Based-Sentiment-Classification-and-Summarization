@@ -1,4 +1,4 @@
-# 🌟 **Aspect-Based Sentiment Classification and Summarization** 🌟
+# 🌟 **Aspect-Based Sentiment Classification and Summarization**
 
 This project leverages the **Mistral 7B-Instruct Large Language Model (LLM)** from Hugging Face using **zero-shot** and **few-shot inference** techniques. The application is capable of:
 - Predicting **ticket categories** 🏷️
