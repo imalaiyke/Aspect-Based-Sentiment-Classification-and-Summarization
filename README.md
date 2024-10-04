@@ -1,6 +1,6 @@
 # 📊 Aspect Based Sentiment Classification & Summarization
 
-This project develops a **Generative AI application** using the Llama-2-7B model for automating aspect-based product classification and summarizing customer reviews. 🌟  
+This project develops a **Generative AI application** using the Llama-2-7B model for automating aspect-based product classification and summarizing customer reviews.
 
 The fine-tuning process enhances the relevance and quality of summaries, leading to several benefits:
 
